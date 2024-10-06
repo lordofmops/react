@@ -47,7 +47,7 @@ function setPermissions(role: Role,
     };
 }
 
-// тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты тесты
+// тесты
 let currentPermissions: RolePermissions = {
     admin: {canRead: true, canEdit: true, canDelete: true},
     user: {canRead: true, canEdit: true, canDelete: true},
